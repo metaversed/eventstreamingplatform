@@ -9,4 +9,5 @@
 * [Change log](change-log.md)
 * [FAQ](faq.md)
 * [Operator Manual](operator-manual.md)
+* [User Guide](user-guide.md)
 

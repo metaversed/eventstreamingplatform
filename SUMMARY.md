@@ -5,9 +5,8 @@
 * [Key Concepts](key-concepts.md)
 * [Key Capabilities](capabilities.md)
 * [Key Distributions](introduction.md)
-* [Operating Model](untitled.md)
-* [FAQ](faq.md)
 * [Operator Manual](operator-manual.md)
+* [Operating Model](untitled.md)
 * [User Guide](user-guide.md)
 * [Support](support.md)
 * [Releases](releases/README.md)
@@ -15,4 +14,5 @@
 * [Security](security.md)
 * [Roadmap](roadmap.md)
 * [Blog](blog.md)
+* [FAQ](faq.md)
 

@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Explore](README.md)
+* [To Do](README.md)
+* [Untitled](untitled-1.md)
 * [Overview](overview.md)
 * [Key Concepts](key-concepts.md)
 * [Key Capabilities](capabilities.md)
 * [Key Distributions](introduction.md)
 * [Operating Model](untitled/README.md)
-  * [Untitled](untitled/untitled.md)
   * [How to ?](untitled/guide.md)
 * [FAQ](faq.md)
 * [Operator Manual](operator-manual.md)

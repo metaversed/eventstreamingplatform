@@ -3,7 +3,7 @@
 * [Explore](README.md)
 * [Overview](overview.md)
 * [Key Concepts](key-concepts.md)
-* [Capabilities](capabilities.md)
+* [Key Capabilities](capabilities.md)
 * [Key Distributions](introduction.md)
 * [Operating Model](untitled/README.md)
   * [How to ?](untitled/guide.md)

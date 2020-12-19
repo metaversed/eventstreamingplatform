@@ -1,2 +1,2 @@
-# Capabilities
+# Key Capabilities
 

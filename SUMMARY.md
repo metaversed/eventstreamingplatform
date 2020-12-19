@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Explore !](README.md)
+* [Explore](README.md)
 * [Overview](overview.md)
 * [Capabilities](capabilities.md)
 * [Key Distributions](introduction.md)

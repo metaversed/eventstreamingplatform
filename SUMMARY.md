@@ -11,4 +11,5 @@
 * [Operator Manual](operator-manual.md)
 * [User Guide](user-guide.md)
 * [Support](support.md)
+* [Releases](releases.md)
 

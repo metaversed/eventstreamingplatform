@@ -10,4 +10,5 @@
 * [FAQ](faq.md)
 * [Operator Manual](operator-manual.md)
 * [User Guide](user-guide.md)
+* [Support](support.md)
 

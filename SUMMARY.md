@@ -6,5 +6,5 @@
 * [Guide](guide.md)
 * [Change log](change-log.md)
 * [FAQ](faq.md)
-* [Untitled](untitled.md)
+* [Operating Model](untitled.md)
 

@@ -1,2 +1,6 @@
-# Untitled
+---
+description: Operating Model
+---
+
+# Operating Model
 

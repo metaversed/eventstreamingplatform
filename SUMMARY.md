@@ -16,4 +16,5 @@
   * [Change log](releases/change-log.md)
 * [Security](security.md)
 * [Roadmap](roadmap.md)
+* [Blog](blog.md)
 

@@ -1,8 +1,8 @@
 ---
-description: Things that can come handy
+description: Guide
 ---
 
-# How to ?
+# Guide
 
 ## Getting Super Powers
 

@@ -12,4 +12,5 @@
 * [User Guide](user-guide.md)
 * [Support](support.md)
 * [Releases](releases.md)
+* [Security](security.md)
 

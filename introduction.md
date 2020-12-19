@@ -1,2 +1,2 @@
-# Introduction
+# Key Distributions
 

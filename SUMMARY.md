@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [README](readme.md)
-* [Introduction](introduction.md)
+* [Capabilities](capabilities.md)
+* [Key Distributions](introduction.md)
 

@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Capabilities](capabilities.md)
+* [Key Distributions](introduction.md)
+* [Change log](change-log.md)
+* [FAQ](faq.md)
 

@@ -2,6 +2,7 @@
 
 * [Explore](README.md)
 * [Overview](overview.md)
+* [Key Concepts](key-concepts.md)
 * [Capabilities](capabilities.md)
 * [Key Distributions](introduction.md)
 * [Operating Model](untitled/README.md)
@@ -13,5 +14,4 @@
 * [Support](support.md)
 * [Releases](releases.md)
 * [Security](security.md)
-* [Key Concepts](key-concepts.md)
 

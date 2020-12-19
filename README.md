@@ -1,6 +1,6 @@
 ---
-description: Welcome to the world of Event Streaming !
+description: A brief introduction to an Event Streaming Platform
 ---
 
-# Hello World !
+# Introduction
 

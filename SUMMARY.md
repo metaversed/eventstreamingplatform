@@ -1,7 +1,6 @@
 # Table of contents
 
 * [To Do](README.md)
-* [Untitled](untitled-1.md)
 * [Overview](overview.md)
 * [Key Concepts](key-concepts.md)
 * [Key Capabilities](capabilities.md)

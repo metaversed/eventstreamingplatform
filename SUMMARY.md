@@ -8,4 +8,5 @@
 * [Operating Model](untitled.md)
 * [Change log](change-log.md)
 * [FAQ](faq.md)
+* [Operator Manual](operator-manual.md)
 

@@ -13,4 +13,5 @@
 * [Support](support.md)
 * [Releases](releases.md)
 * [Security](security.md)
+* [Key Concepts](key-concepts.md)
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [To Do](README.md)
+* [Explore](README.md)
 * [Overview](overview.md)
 * [Key Concepts](key-concepts.md)
 * [Key Capabilities](capabilities.md)
